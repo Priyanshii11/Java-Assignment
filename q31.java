@@ -6,7 +6,7 @@ public class q31
     {
         System.out.println("enter the family income in lakhs");
         Scanner pri=new Scanner(System.in);
-        float a=pri.nextFloat();
+        int a=pri.nextInt();
         System.out.println("enter the age");
         int b=pri.nextInt();
         if ((a>=100000)&&(a<=200000))

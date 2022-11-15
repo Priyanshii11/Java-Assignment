@@ -1,27 +1,18 @@
-//to read gender m/f and print right code otherwise not valid//
-import java.util.*;
-public class q42
-{
-    public static void main(String[] args) 
-    {
-        System.out.println("enter the code f/m");
-        Scanner pri=new Scanner(System.in);
-        char a=pri.next().charAt(0);
-    
-        switch(a)
-        {
-            case 'm':
-            case 'M':
-            System.out.println("you are male");
-            break;
-            case 'f':
-            case 'F':
-            System.out.println("you are female");
-            break;
-            default:
-            System.out.println("not valid");
+import java.util.Scanner;
+
+public class q42 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt();
+        int i=0 ,j=1;
+        System.out.println("fibonacci series " +a+ "terms");
+        for (i=1;i<=a;++i)  { 
+        int c = i+j;
+        i=j;
+        j=c;
+        System.out.println( +i);
         }
-        
+
     }
     
 }
