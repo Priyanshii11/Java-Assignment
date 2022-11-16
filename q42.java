@@ -4,13 +4,14 @@ public class q42 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
-        int i=0 ,j=1;
+        int i=0 , j=1, b ;
         System.out.println("fibonacci series " +a+ "terms");
-        for (i=1;i<=a;++i)  { 
+        for (b=0;b<=a;++b)  { 
         int c = i+j;
+        System.out.println( +c);
         i=j;
         j=c;
-        System.out.println( +i);
+        
         }
 
     }
