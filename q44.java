@@ -19,6 +19,7 @@ public class q44 {
                 System.out.println("fails in these subjects");
                 /*if(a<=33 && b>=33 && c>=33)
                 System.out.println("fails in a");
+                
                 else if(b<=33 && a>=33 && c>=33)
                 System.out.println("fails in b");
                 else if (c<=33 && a>=33 && b>=33)

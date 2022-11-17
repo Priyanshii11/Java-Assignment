@@ -1,3 +1,5 @@
+//Q39 - WAP which enter any integer from 1-3 and print in word. if the given value is beyond the range than it gives mgs out of rang.
+
 import java.util.*;
 public class q39 {
     public static void main(String[] args) {

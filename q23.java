@@ -1,3 +1,4 @@
+//Q23 - Write a program which enter any integer then check and print whether it is odd no. or even no.
 import java.util.*;
 public class q23 {
     public static void main(String[] args) {

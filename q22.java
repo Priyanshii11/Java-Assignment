@@ -1,3 +1,4 @@
+//Q22 - Write a program which enter marks in three subject of a student and calculate its average if the average is 33 or more than print pass otherwise print fail.
 import java.util.*;
 public class q22 {
     public static void main(String[] args) 

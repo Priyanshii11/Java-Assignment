@@ -1,3 +1,5 @@
+//Q41 - WAP which force the user to enter any positive value and print it. the program should keep on asking the no. again until the user do not enter any negative number.
+
 import java.util.*;
 public class q41 
 {
