@@ -1,3 +1,10 @@
+/*33 - WAP which enter sale made by any salesman than calculate and print the commission, 
+according to following rules -
+ Sale Commission 
+ up to 25000 5% of sales
+ 25001 - 50000 7% of sales
+50001 - 75000 8% of sales
+ 75001 10% of sales */
 import java.util.*;
 
 import java.util.*;

@@ -1,3 +1,4 @@
+// Write a Java program to find out the day of the week given the number [1 for Monday, 2 for Tuesday … and so on!]
 import java.util.*;
 public class q46 { 
     public static void main(String[] args) {

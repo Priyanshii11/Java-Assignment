@@ -1,3 +1,4 @@
+//calculate the expressions
 class calcu {
     public static void main(String[] args) {
         Float a=8/8+7%2-3*2f;

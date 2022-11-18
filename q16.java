@@ -1,3 +1,4 @@
+//print square and cube of number
 import java.util.Scanner;
 
 public class q16 {

@@ -1,4 +1,6 @@
-//
+/*- WAP which enter Annual family income and age of a person and if the income is from 1 lakh to 
+2 lakh and age is also from 18 to 24 then print eligible for scholarship otherwise print not eligible for 
+scholarship*/
 import java.util.Scanner;
 public class q31
  {

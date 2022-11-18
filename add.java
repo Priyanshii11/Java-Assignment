@@ -1,3 +1,4 @@
+ //add and take value from command line mode//
  public class add {
     public static void main(String args[])
     {

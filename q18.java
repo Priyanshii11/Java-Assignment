@@ -1,3 +1,4 @@
+//print quotient and remainder 
 import java.util.Scanner;
 
 public class q18 {

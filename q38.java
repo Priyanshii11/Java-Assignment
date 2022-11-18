@@ -1,3 +1,5 @@
+/*Q38 - WAP which enter the age sale made by any person if the sale is upto 2500 then commission is 
+5% of sale otherwise it is 7% of sale using Conditional operator[? :] */
 import java.util.*;
 public class q38 {
     public static void main(String[] args) {

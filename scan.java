@@ -1,3 +1,4 @@
+//store value in int and float//
 import java.util.*;
 class scan{
     public static void main(String args[]) {

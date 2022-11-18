@@ -1,3 +1,4 @@
+//swap without using third variable//
 class q8 {
     public static void main(String args[])
     {

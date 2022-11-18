@@ -1,4 +1,7 @@
-//Q42 - Number is series 1 1 2 3 5 8 13.....(Fibonacci series). WAP which enter the number of term and that many term of series should be generated and print it.
+/*Write a program to find out the type of website from the URL:
+.com – commercial website
+.org – organization website
+.in – Indian website*/
 import java.util.Scanner;
 
 public class q48 {

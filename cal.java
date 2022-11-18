@@ -1,3 +1,4 @@
+//sum of two number
 import java.util.*;
 class cal {
     public static void main(String[] args) {

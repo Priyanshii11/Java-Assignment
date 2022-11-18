@@ -1,3 +1,10 @@
+/* WAP which enter marks in three Subject of a student and calculate its average, independent 
+on the average check and print the division according to following rule -
+ Avg division
+ 60+ first
+ 45 -< 60 second
+ 33 -<45 third
+ <33 fail. */
 import java.util.*;
 public class q32 {
     public static void main(String[] args) {

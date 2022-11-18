@@ -1,3 +1,4 @@
+//sum of two integer
 import java.util.Scanner;
 class q13{
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+//Write a Java program to find whether a year entered by the user is a leap year or not.
 import java.util.*;
 public class q47 {
     public static void main(String[] args) {

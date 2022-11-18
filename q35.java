@@ -1,3 +1,5 @@
+/*WAP which enter any character then check and print whether it is Capital alphabet, 
+ small alphabet, digit or any other special character */
 import java.util.Scanner;
 
 public class q35 {

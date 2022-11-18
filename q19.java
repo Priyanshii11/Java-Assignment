@@ -1,3 +1,4 @@
+//calculate simple interest
 import java.util.Scanner;
 
 public class q19 {

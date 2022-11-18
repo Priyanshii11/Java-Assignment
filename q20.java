@@ -1,3 +1,4 @@
+//use all operater
 import java.util.Scanner;
 
 public class q20 {

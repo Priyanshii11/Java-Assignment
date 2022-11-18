@@ -1,3 +1,4 @@
+//enter name from user//
 import java.util.*;
 class name
  {
