@@ -11,6 +11,8 @@ public class q24 {
         else
         System.out.println("square of " +a+ " is " +(a*a));
     
+   
+   
     }
     
 }

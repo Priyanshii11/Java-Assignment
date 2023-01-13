@@ -15,6 +15,8 @@ public class q48 {
         }
         else if (website.endsWith(".com"))
         {
+
+            
             System.out.println("this is commercial wwebsite");
         }
         else if (website.endsWith(".in"))

@@ -9,6 +9,7 @@ public class q30 {
         System.out.println("enter the  right code");
         else
     System.out.println("wrong codee");
-    }
+   
+}
     
 }

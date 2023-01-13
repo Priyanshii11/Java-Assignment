@@ -9,6 +9,7 @@ public class q29 {
     System.out.println("right code");
     else
     System.out.println("wrong choice");
+  
   }
     
 }

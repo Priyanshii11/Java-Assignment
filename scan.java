@@ -12,5 +12,7 @@ class scan{
              float b=sc.nextFloat();
              System.out.println("1st num=" +t +'\n'+ "2nd num=" +b);
     
-}
-}
+
+            }
+
+        }

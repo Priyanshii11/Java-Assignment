@@ -9,5 +9,7 @@ class val{
         char c='p';//store char value
         System.out.println("character:"+c);
         
+  
+  
     }
 }
