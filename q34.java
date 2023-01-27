@@ -7,6 +7,7 @@ public class q34 {
         Scanner sc=new Scanner(System.in);
         char a=sc.next().charAt(0);
         System.out.println("character `" +(int)a);
+  
     }
     
 }

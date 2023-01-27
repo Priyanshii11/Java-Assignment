@@ -11,6 +11,8 @@ public class q28 {
         System.out.println("user is female");
         else 
         System.out.println("you have enter a wrong choice");
+ 
+ 
     }
     
 }

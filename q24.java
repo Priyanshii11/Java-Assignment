@@ -12,7 +12,6 @@ public class q24 {
         System.out.println("square of " +a+ " is " +(a*a));
     
    
-   
-    }
+   }
     
 }

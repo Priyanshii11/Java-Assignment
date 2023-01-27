@@ -34,6 +34,8 @@ public class q33 {
       float cm4=(a*10)/100f;
    
    System.out.println("10% of sale is " +cm4);
-    }
+ 
+
+}
  }
 }
