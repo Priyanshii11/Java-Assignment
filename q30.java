@@ -11,5 +11,7 @@ public class q30 {
     System.out.println("wrong codee");
    
 }
-    
+ 4
+ 
+ 
 }

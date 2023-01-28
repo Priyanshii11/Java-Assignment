@@ -8,8 +8,5 @@ class val{
         System.out.println("number:"+b);
         char c='p';//store char value
         System.out.println("character:"+c);
-        
-  
-  
-    }
+     }
 }

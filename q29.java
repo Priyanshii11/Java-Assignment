@@ -11,5 +11,7 @@ public class q29 {
     System.out.println("wrong choice");
   
   }
-    
+ 4
+ 
+ 
 }

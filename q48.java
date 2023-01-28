@@ -23,5 +23,7 @@ public class q48 {
         {
             System.out.println("indian website");
         }
+   
+   
     }
 }

@@ -26,8 +26,7 @@ public class q32 {
         System.out.println("third division");
         else 
         System.out.println("fail");
-    
-}
+    }
 
     
 }
